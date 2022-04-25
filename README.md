@@ -12,4 +12,4 @@ Read [FOSJsRoutingBundle Docs](https://github.com/FriendsOfSymfony/FOSJsRoutingB
 ### License
 The code is licensed under the [MIT License](https://github.com/habibun/fos-js-routing-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/fos-js-routing-bundle/tree/5.4.x
+[1]: https://github.com/habibun/fos-js-routing-bundle/tree/2.x
