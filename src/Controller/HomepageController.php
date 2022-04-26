@@ -17,4 +17,12 @@ class HomepageController extends AbstractController
             'controller_name' => 'HomepageController',
         ]);
     }
+
+    /**
+     * @Route("/test", name="app_test", options={"expose"=true})
+     */
+    public function test(): Response
+    {
+        return $this->json(['test' => 'success']);
+    }
 }
